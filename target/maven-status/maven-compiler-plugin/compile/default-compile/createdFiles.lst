@@ -1,0 +1,10 @@
+pageObjects\ShoppingCartShipping.class
+pageObjects\LandingPage.class
+pageObjects\ShoopingCartPayment.class
+pageObjects\ShoppingCartAddress.class
+resources\base.class
+pageObjects\shortProdInfo.class
+assignment\EcomProject\App.class
+pageObjects\ShoppingCartSummary.class
+pageObjects\CategorySummerDress.class
+pageObjects\ShoopingCartAuth.class
